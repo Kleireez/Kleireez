@@ -38,8 +38,18 @@
 <img src="./img/klein1.png" width="270" align="right" />
 <br/>
 <img src="./img/klein2.png" width="500" /><br/>
-<sub>“Knowledge can change one’s destiny, and diligence will result in glory.” – Klein&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : me@rei.my.id</sub>
+<sub>“Knowledge can change one’s destiny, and diligence will result in glory.” – Klein</sub>
 <br/><br/>
+
+<p align="center">
+  <img src="./img/contact-text.svg" alt="contact me" />
+</p>
+
+<p align="center">
+  <a href="https://instagram.com/zegirz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/egi-frizi-manda-579a6b41b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/egi.f.manda"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>
 
 #####
 
