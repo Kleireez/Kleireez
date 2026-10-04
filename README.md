@@ -1,6 +1,6 @@
 <img src="./img/Kleireez_glow.gif" width="100%">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=22&pause=1200&color=F7C948&center=true&vCenter=true&width=650&lines=Beyond+the+gray+fog%2C+I+keep+learning;A+fool+who+debugs+in+the+dark;Aspiring+Web+Developer+%7C+Laravel+%26+PHP;Every+bug+is+a+mystery+to+solve" alt="Typing SVG" />
+  <img src="./img/glow-text (1).svg" alt="Glow text" />
 </p>
 
 <div>
