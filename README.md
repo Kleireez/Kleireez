@@ -31,7 +31,7 @@
 
 #### Most Languages & Skills
 
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kleireez&layout=compact" alt="Top Langs" />&emsp;&emsp;&emsp;&emsp;<a href="https://skillicons.dev"><img align="top" src="https://skillicons.dev/icons?i=git,github,laravel,html,js,css,php,bootstrap,java,mysql&perline=5" alt="Skills" /></a>
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kleireez&layout=compact&theme=tokyonight" alt="Top Langs" />&emsp;&emsp;&emsp;&emsp;<a href="https://skillicons.dev"><img align="top" src="https://skillicons.dev/icons?i=git,github,laravel,html,js,css,php,bootstrap,java,mysql&perline=5" alt="Skills" /></a>
 
 <br clear="all" />
 
