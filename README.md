@@ -3,7 +3,7 @@
 <div>
 
 <img width="337" src="img/kleinpp.png" align=right />
-<img src="/img/about.png" width="488"/>
+<img src="/img/about.png" width="588"/>
 <br/>
 
 
@@ -48,7 +48,7 @@
     width="100%"
   />
 
-  
+
 </picture>
 </div>
 
