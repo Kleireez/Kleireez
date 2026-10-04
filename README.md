@@ -1,16 +1,16 @@
-## Hi there 👋
+<img src="./img/Kleireez_glow.gif" width="100%">
 
-<!--
-**Kleireez/Kleireez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
 
-Here are some ideas to get you started:
+<img width="337" src="img/kleinpp.png" align=right />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="/img/about.png" width="440" />
+
+- Name: **Egi Frizi Manda**
+
+- From: **Pekanbaru, Riau, Indonesia**
+
+- Currently: studying **Informatic Engineering** at **Politeknik Caltex Riau**
+
+- Off the clock: reading, gaming to recover my spirituality, then studying to keep myself from losing control.
+</div>
