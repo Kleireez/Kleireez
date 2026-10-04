@@ -3,11 +3,11 @@
 <div>
 
 <img width="337" src="img/kleinpp.png" align=right />
-<img src="/img/about.png" width="588"/>
+<img src="/img/about.png" width="488"/>
 <br/>
 
-
 ##### Introduction
+
 - Name: **Egi Frizi Manda**
 
 - From: **Pekanbaru, Riau, Indonesia**
@@ -21,8 +21,8 @@
 <br/>
 
 ##### Most Languages & Skills
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kleireez&layout=compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kleireez&layout=compact)
 
 <p align="right">
   <a href="https://skillicons.dev">
@@ -30,9 +30,8 @@
   </a>
 </p>
 
+#####
 
-
-##### 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -48,7 +47,5 @@
     width="100%"
   />
 
-
 </picture>
 </div>
-
