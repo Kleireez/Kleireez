@@ -32,7 +32,7 @@
 <div align="right">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,laravel,html,js,css,php,bootstrap,java,mysql&perline=5" alt="Skills" />
-  </a>
+  </a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 </div>
 
 <br clear="all" />
