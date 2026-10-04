@@ -6,7 +6,7 @@
 <img src="/img/about.png" width="488"/>
 <br/>
 
-##### Introduction
+#### Introduction
 
 - Name: **Egi Frizi Manda**
 
@@ -15,6 +15,7 @@
 - Currently: studying **Informatic Engineering** at **Politeknik Caltex Riau**
 
 - Off the clock: reading, gaming to recover my spirituality, then studying to keep myself from losing control.
+
 - Focus: **Web Development**, **Laravel**, **PHP** & **Java**
 
 - Currently learning: **Laravel**, building small projects to sharpen my skills
@@ -25,15 +26,11 @@
 
 <br/>
 
-##### Most Languages & Skills
+#### Most Languages & Skills
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kleireez&layout=compact" alt="Top Langs" />
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kleireez&layout=compact" alt="Top Langs" />&emsp;&emsp;&emsp;&emsp;<a href="https://skillicons.dev"><img align="top" src="https://skillicons.dev/icons?i=git,github,laravel,html,js,css,php,bootstrap,java,mysql&perline=5" alt="Skills" /></a>
 
-<div align="right">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,laravel,html,js,css,php,bootstrap,java,mysql&perline=5" alt="Skills" />
-  </a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-</div>
+<br clear="all" />
 
 <br clear="all" />
 
@@ -53,5 +50,11 @@
     alt="AA/O-01"
     width="100%"
   />
+</picture>
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 </div>
