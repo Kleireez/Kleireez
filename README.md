@@ -15,20 +15,27 @@
 - Currently: studying **Informatic Engineering** at **Politeknik Caltex Riau**
 
 - Off the clock: reading, gaming to recover my spirituality, then studying to keep myself from losing control.
+- Focus: **Web Development**, **Laravel**, **PHP** & **Java**
 
-<br/>
-<br/>
+- Currently learning: **Laravel**, building small projects to sharpen my skills
+
+- Tools I use: **VS Code**, **Git** & **Linux**
+
+- Fun fact: I write code to build things, and game to rebuild myself
+
 <br/>
 
 ##### Most Languages & Skills
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kleireez&layout=compact)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kleireez&layout=compact" alt="Top Langs" />
 
-<p align="right">
+<div align="right">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,laravel,html,js,css,php,bootstrap" />
-  </a>
-</p>
+    <img src="https://skillicons.dev/icons?i=git,github,laravel,html,js,css,php,bootstrap,java,mysql&" alt="Skills" />
+  </a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+</div>
+
+<br clear="all" />
 
 #####
 
@@ -46,6 +53,5 @@
     alt="AA/O-01"
     width="100%"
   />
-
 </picture>
 </div>
