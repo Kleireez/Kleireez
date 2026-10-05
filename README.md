@@ -36,8 +36,8 @@
 <br clear="all" />
 
 #### Song
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ve6gehhstkszndn3qgflakgce4&cover_image=true&theme=default&show_offline=true&background_color=291b37&interchange=false&profanity=false&hide_remaster=false&bar_color=81ff3d&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ve6gehhstkszndn3qgflakgce4&cover_image=true&theme=spotify-embed&show_offline=true&background_color=0d1117&interchange=false&profanity=false&hide_remaster=false&bar_color=f7c948)](https://github.com/kittinan/spotify-github-profile)
 
 <img src="./img/klein1.png" width="270" align="right" />
 <br/>
