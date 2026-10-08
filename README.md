@@ -31,13 +31,13 @@
 
 #### Most Languages & Skills
 
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kleireez&layout=compact&langs_count=8&bg_color=0d1117&title_color=F7C948&text_color=c9d1d9&border_color=2a3350&border_radius=10&v=4" alt="Top Langs" />&emsp;&emsp;&emsp;&emsp;<a href="https://skillicons.dev"><img align="top" src="https://skillicons.dev/icons?i=git,github,laravel,html,js,css,php,bootstrap,java,mysql&perline=5" alt="Skills" /></a>
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kleireez&layout=compact&langs_count=8&bg_color=0d1117&title_color=F7C948&text_color=c9d1d9&border_color=2a3350&border_radius=10&v=6" alt="Top Langs" />&emsp;&emsp;&emsp;&emsp;<a href="https://skillicons.dev"><img align="top" src="https://skillicons.dev/icons?i=git,github,laravel,html,js,css,php,bootstrap,java,mysql&perline=5" alt="Skills" /></a>
 
 <br clear="all" />
 
 #### Song
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ve6gehhstkszndn3qgflakgce4&cover_image=true&theme=default&show_offline=true&background_color=291b37&interchange=false&profanity=false&hide_remaster=false&bar_color=81ff3d&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ve6gehhstkszndn3qgflakgce4&cover_image=true&theme=default&show_offline=true&background_color=291b37&interchange=false&profanity=false&hide_remaster=false&bar_color=81ff3d&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <img src="./img/klein1.png" width="270" align="right" />
 <br/>
