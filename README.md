@@ -33,7 +33,7 @@
 
 <img
   align="top"
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kleireez&layout=compact&langs_count=10&bg_color=0d1117&title_color=F7C948&text_color=c9d1d9"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kleireez&layout=compact&langs_count=6&bg_color=0d1117&title_color=F7C948&text_color=c9d1d9"
   alt="Top Languages"
 />&emsp;&emsp;&emsp;&emsp;<a href="https://skillicons.dev"><img align="top" src="https://skillicons.dev/icons?i=git,github,laravel,html,js,css,php,bootstrap,java,mysql&perline=5" alt="Skills" /></a>
 
